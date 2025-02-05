@@ -16,4 +16,4 @@ Online game developer since 2012!
 [Dinogen Online (2022)](https://dinogenonline.com) | [Dinogen Arena (2018)](https://wilkingames.com/dinogen-arena) | [Dinogen (2017)](https://wilkingames.com/dinogen)
 
 ### Asset Packs
-[Tactical Weapon Pack 2 (2018)](https://wilkingames.com/tactical-weapon-pack-2) | [Tactical Weapon Pack (2017)](https://wilkingames.com/tactical-weapon-pack) | [Adversity Weapon Pack (2015)](https://wilkingames.com/adversity-weapon-pack)
+[Tactical Weapon Pack 2 (2019)](https://wilkingames.com/tactical-weapon-pack-2) | [Tactical Weapon Pack (2018)](https://wilkingames.com/tactical-weapon-pack) | [Adversity Weapon Pack (2015)](https://wilkingames.com/adversity-weapon-pack)
