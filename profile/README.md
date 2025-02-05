@@ -1,6 +1,6 @@
 # Wilkin Games
 
-Online game developer!
+Online game developer since 2012!
 
 [Homepage](https://wilkingames.com) | [Join Discord](https://discord.com/invite/8gkdRXdk)
 
