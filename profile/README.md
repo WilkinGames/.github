@@ -1,6 +1,6 @@
 # Wilkin Games
 
-Free online game developer!
+Online game developer!
 
 [Homepage](https://wilkingames.com) | [Join Discord](https://discord.com/invite/8gkdRXdk)
 
