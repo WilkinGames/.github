@@ -7,7 +7,7 @@ Online game developer since 2012!
 ## Releases
 
 ### Deadswitch Series
-[Deadswitch Combat (TBA)](https://deadswitchcombat.com) | [Deadswitch 3 (2020)](https://deadswitch3.com) | [Deadswitch 2 (2013)](https://wilkingames.com/deadswitch-2) | [Deadswitch (2012)](https://wilkingames.com/deadswitch)
+[Deadswitch Combat (Coming Soon)](https://deadswitchcombat.com) | [Deadswitch 3 (2020)](https://deadswitch3.com) | [Deadswitch 2 (2013)](https://wilkingames.com/deadswitch-2) | [Deadswitch (2012)](https://wilkingames.com/deadswitch)
 
 ### Arsenal Online
 [Arsenal Online (2024)](https://arsenalonline.net)
